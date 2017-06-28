@@ -1,9 +1,6 @@
 #
-# Cookbook Name:: simple_demo
+# Cookbook Name:: sturdy
 # Recipe:: default
-#
-# All rights reserved - Do Not Redistribute
-#
 
 execute "apt-get update" do
     command "apt-get update"
